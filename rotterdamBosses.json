@@ -1,0 +1,77 @@
+{
+  "bosses": [
+    {
+      "id": 1,
+      "name": "Rotterdam Knight",
+      "hp": 2000,
+      "weakness": "Lightning",
+      "latitude": 51.9225,
+      "longitude": 4.47917
+    },
+    {
+      "id": 2,
+      "name": "Blighted Golem",
+      "hp": 3000,
+      "weakness": "Fire",
+      "latitude": 51.9189,
+      "longitude": 4.4861
+    },
+    {
+      "id": 3,
+      "name": "Hollowed Drake",
+      "hp": 2500,
+      "weakness": "Magic",
+      "latitude": 51.9097,
+      "longitude": 4.4881
+    },
+    {
+      "id": 4,
+      "name": "Corrupted Banshee",
+      "hp": 2800,
+      "weakness": "Dark",
+      "latitude": 51.9122,
+      "longitude": 4.4803
+    },
+    {
+      "id": 5,
+      "name": "Shadow Lord",
+      "hp": 3200,
+      "weakness": "Fire",
+      "latitude": 51.9072,
+      "longitude": 4.4750
+    },
+    {
+      "id": 6,
+      "name": "Rotterdam Reaper",
+      "hp": 2700,
+      "weakness": "Lightning",
+      "latitude": 51.9208,
+      "longitude": 4.4656
+    },
+    {
+      "id": 7,
+      "name": "Soul Devourer",
+      "hp": 3500,
+      "weakness": "Magic",
+      "latitude": 51.9191,
+      "longitude": 4.4836
+    },
+    {
+      "id": 8,
+      "name": "Dread Knight",
+      "hp": 2900,
+      "weakness": "Fire",
+      "latitude": 51.9144,
+      "longitude": 4.4781
+    },
+    {
+      "id": 9,
+      "name": "Rotterdam Serpent",
+      "hp": 2300,
+      "weakness": "Lightning",
+      "latitude": 51.9110,
+      "longitude": 4.4703
+    }
+
+  ]
+}
